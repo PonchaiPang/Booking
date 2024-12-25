@@ -1,0 +1,66 @@
+#root {
+  font-family: "Bai Jamjuree", serif;
+  color: #123456;
+}
+.deepBlue {
+  color: #123456;
+}
+
+.buttonStyle {
+  background-color: #123456;
+  color: white;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  border-radius: 10px;
+  text-decoration: none;
+  width: 100%;
+}
+
+.box-position-image {
+  position: relative;
+}
+.box-position-search {
+  position: absolute;
+  top: 8%;
+  left: 20%;
+}
+
+.img-screen {
+  max-width: 100%;
+  border-radius: 15px;
+}
+
+.react-datepicker-wrapper,
+.react-datepicker__input-container,
+.react-datepicker__input-container input {
+  display: block;
+  width: 100%;
+}
+
+/* Search */
+.background-item-card {
+  max-height: auto;
+  max-width: 402px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.slick-slide {
+  margin: 0 0px;
+}
+.item-img {
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+.item-text {
+  max-width: 400px;
+}
+.item-description {
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+/* Search */
